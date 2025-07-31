@@ -52,15 +52,3 @@ Product Category KPIs
 Customer Segmentation Visuals
 
 Filtered Reports with Slicers
-
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
-
